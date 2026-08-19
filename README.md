@@ -38,6 +38,14 @@
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemmesleep247&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
