@@ -38,10 +38,11 @@
 
 ---
 
-### 📈 Activity Graph
+### 📈 Contributions Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lemmesleep247&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=lemmesleep247&stats=true&credit=true&theme=github" alt="Contributions Graph" />
+	<img src="./cat.svg" />
 </p>
 
 ---
