@@ -2,7 +2,7 @@
 <h3 align="center">🎯 Focusing | Learning....</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Learning+new+things+every+day;Exploring+Android+%26+App+Dev;Kotlin+%7C+Dart+%7C+Jetpack+Compose;Open+to+collaborating+on+cool+projects" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B;Dark+Mode+is+My+Love+Language;I+Can+Center+a+Div%E2%80%A6+After+17+Attempts+T-T" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -34,6 +34,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lemmesleep247/lemmesleep247/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+<p align="center">
+	<img src="./about.svg"/>
 </p>
 
 ---
